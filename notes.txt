@@ -1,0 +1,7 @@
+--Template--
+When  a user takes a  specific  action, then the user should see  this
+
+1. Visit a page on your app
+2. Query an element on that page, i.e., buttons, dropdowns, etc.
+3. Interact with the element, i.e., clicking on buttons, dragging divs, or filling inputs, etc.
+4. Confirm that the new state is correct after the interaction
