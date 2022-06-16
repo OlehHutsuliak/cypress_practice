@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "types": ["cypress"]
+        // "resolveJsonModule": true   if you intend to import json fixture directly
+    }
+}
